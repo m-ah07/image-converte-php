@@ -1,0 +1,6 @@
+# Ignore all uploaded files
+uploads/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
