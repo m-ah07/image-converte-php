@@ -4,19 +4,19 @@
 
 ---
 
-## Features
+## 🚀 Features
 
 - **Multi-format Conversion**: Supports conversion between PNG, JPEG, GIF, and BMP formats.
 - **Lightweight and Fast**: Written in PHP for quick processing.
 - **Easy Integration**: Straightforward to use in your projects.
 - **Customizable**: Easily extendable to include more features.
 
-## Requirements
+## ⚙️ Requirements
 
 - **PHP 7.4** or later
 - **GD Library**: Make sure the PHP GD extension is installed and enabled.
 
-## Installation
+## 🔧 Installation
 
 1. Clone this repository to your local machine:
    
@@ -31,7 +31,7 @@
 
 3. Place the project files in your desired directory on your web server.
 
-## Usage
+## 📖 Usage
 
 1. Access the script through your preferred development environment or web server.
 2. Use the following example code to convert an image:
@@ -56,17 +56,22 @@
     }
     ```
 
-## Directory Structure
-
+## 📂 Directory Structure
+```plaintext
 image-converte-php/
 ├── public/
-│   └── index.php          # Core script for image conversion
-├── examples/              # Folder containing usage examples
-│   └── example.php        # Sample implementation
-├── .gitignore             # Git ignore file
-└── README.md              # Project documentation
+│   └── index.php
+├── examples/
+│   └── example.php
+├── LICENSE
+├── .gitignore
+└── README.md
+```
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
 
+## 🌟 Show Your Support
+
+If you found this project helpful, please consider giving it a ⭐ on GitHub. Your support means the world to us!
