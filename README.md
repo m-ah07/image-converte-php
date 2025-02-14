@@ -21,7 +21,7 @@
 1. Clone this repository to your local machine:
    
    ```bash
-   git clone https://github.com/marwan-ahmed-23/image-converte-php.git
+   git clone https://github.com/m-ah07/image-converte-php.git
    ```
 
 2. Ensure your server meets the requirements:
